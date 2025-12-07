@@ -4,6 +4,12 @@
   src: url(/css/fonts/SpaceMono-Regular.ttf) format('truetype');
 }
 
+.projektLink {
+  text-decoration: none;
+  font-size: 2rem;
+  margin-left: 50%;
+  font-family: 'spacemono', sans-serif;
+}
 
 .introtext {
   text-align: right;
@@ -11,6 +17,7 @@
   margin-right: 11vw; 
   margin-top: 10rem;
   margin-bottom: 3rem;
+  margin-right: 22rem;
   font-family: 'spacemono', sans-serif;
 }
  
@@ -34,10 +41,10 @@
 
 .projectText {
   font-family: 'spacemono';
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   width: 40vw;          
   min-height: 8rem;
-  margin-left: 4rem;
+  margin-left: 20rem;
   margin-right: 2rem;
   display: flex;
   align-items: center;
